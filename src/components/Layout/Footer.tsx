@@ -11,10 +11,10 @@ export const Footer = () => {
             <div className="flex items-center space-x-2">
               <div className="w-6 h-6 bg-primary rounded flex items-center justify-center">
                 <span className="text-primary-foreground font-bold text-xs">
-                  AI
+                  DF
                 </span>
               </div>
-              <span className="font-bold text-foreground">nest</span>
+              <span className="font-bold text-foreground">DataForge</span>
             </div>
             <p className="text-muted-foreground text-sm leading-relaxed">
               Decentralized AI dataset marketplace on StarkNet. Democratizing
@@ -59,7 +59,7 @@ export const Footer = () => {
             <ul className="space-y-2 text-sm">
               <li>
                 <a
-                  href="https://x.com/@AInest01"
+                  href="https://x.com/@DataForge01"
                   target="_blank"
                   className="text-muted-foreground hover:text-foreground transition-colors"
                 >
@@ -122,7 +122,7 @@ export const Footer = () => {
         {/* Bottom section */}
         <div className="mt-8 pt-8 border-t border-border flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
           <p className="text-muted-foreground text-sm">
-            © 2025 AInest. Built on StarkNet.
+            © 2025 DataForge. Built on StarkNet.
           </p>
 
           <div className="flex items-center space-x-4">
@@ -135,7 +135,7 @@ export const Footer = () => {
               <Github className="h-5 w-5" />
             </a>
             <a
-              href="https://x.com/@AInest01"
+              href="https://x.com/@DataForge01"
               target="_blank"
               className="text-muted-foreground hover:text-foreground transition-colors"
               aria-label="Twitter"

@@ -132,7 +132,7 @@ export const Landing = () => {
       <section ref={featuresRef} className="py-20 bg-muted/30">
         <div className="container mx-auto px-4">
           <div className="text-center mb-16">
-            <h2 className="ainest-section-title">Why Choose AInest?</h2>
+            <h2 className="ainest-section-title">Why Choose DataForge?</h2>
             <p className="ainest-text-large max-w-2xl mx-auto">
               Experience the future of AI dataset trading with blockchain
               technology
@@ -204,7 +204,7 @@ export const Landing = () => {
               Ready to Start Training?
             </h2>
             <p className="text-xl opacity-90 leading-relaxed">
-              Join thousands of AI researchers already using AInest to access
+              Join thousands of AI researchers already using DataForge to access
               premium datasets and monetize their data contributions.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center pt-4">

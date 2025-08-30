@@ -1,4 +1,4 @@
-# AInest Frontend
+# DataForge Frontend
 
 A decentralized AI dataset marketplace built on **StarkNet**, powered by **Cairo v2** smart contracts and integrated with **starknet-react** for wallet connectivity.
 
@@ -13,7 +13,7 @@ AInest enables secure, trustless trading of AI datasets while ensuring authentic
 - **IPFS** for decentralized dataset storage
 - **Starknet.js / starknet-react** for contract interaction
 
-This is the **frontend application** for interacting with AInest’s smart contracts.
+This is the **frontend application** for interacting with DataForge’s smart contracts.
 
 ---
 
@@ -42,8 +42,8 @@ src/
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/<your-username>/ainest.git
-cd ainest
+git clone https://github.com/<your-username>/dataforge.git
+cd dataforge
 ```
 
 ### 2. Install dependencies
@@ -93,4 +93,4 @@ If you encounter any issues:
 
 ## 📜 License
 
-MIT License © 2025 [AiNest]
+MIT License © 2025 [DataForge]

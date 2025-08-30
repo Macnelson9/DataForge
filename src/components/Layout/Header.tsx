@@ -46,10 +46,10 @@ export const Header = () => {
         <Link to="/" className="flex items-center space-x-2 group">
           <div className="w-8 h-8 bg-primary rounded-lg flex items-center justify-center transition-transform duration-200 group-hover:scale-110">
             <span className="text-primary-foreground font-bold text-lg">
-              AI
+              DF
             </span>
           </div>
-          <span className="text-xl font-bold text-foreground">nest</span>
+          <span className="text-xl font-bold text-foreground">DataForge</span>
         </Link>
 
         {/* Navigation */}
