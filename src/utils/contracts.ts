@@ -3,7 +3,7 @@ import AINEST_ABI from "@/utils/AINEST_ABI.json";
 import STRK_ABI from "@/utils/STRK_ABI.json";
 
 export const AINEST_ADDRESS =
-  "0x074fa1e3642947d40e09218b7f9f60927a54cbc44b4bd2cd41532af59545e604"; // your deployed registry
+  "0x05e417ccacb94456c0eae9bae72c4a6adbb84588f338dd7e450f451085e18bcb"; // your deployed registry
 
 export const STRK_ADDRESS =
   "0x04718f5a0fc34cc1af16a1cdee98ffb20c31f5cd61d6ab07201858f4287c938d"; // your STRK token

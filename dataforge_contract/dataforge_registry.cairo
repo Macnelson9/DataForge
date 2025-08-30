@@ -1,5 +1,5 @@
 #[starknet::contract]
-mod AInestRegistry {
+mod DataForgeRegistry {
     use starknet::ContractAddress;
     use starknet::get_caller_address;
     use starknet::get_contract_address;

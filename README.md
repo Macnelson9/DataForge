@@ -6,7 +6,7 @@ A decentralized AI dataset marketplace built on **StarkNet**, powered by **Cairo
 
 ## 🚀 Overview
 
-AInest enables secure, trustless trading of AI datasets while ensuring authenticity and preventing duplicates using:
+DataForge enables secure, trustless trading of AI datasets while ensuring authenticity and preventing duplicates using:
 
 - **StarkNet** (Layer 2 zk-rollup for Ethereum)
 - **Cairo v2** smart contracts

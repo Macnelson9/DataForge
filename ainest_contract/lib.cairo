@@ -1,1 +1,0 @@
-mod ainest_registry;

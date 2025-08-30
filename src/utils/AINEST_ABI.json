@@ -101,7 +101,7 @@
   },
   {
     "type": "struct",
-    "name": "ainest_contract::ainest_registry::AInestRegistry::Dataset",
+    "name": "main::DataForgeRegistry::Dataset",
     "members": [
       {
         "name": "originalOwner",
@@ -164,7 +164,7 @@
     ],
     "outputs": [
       {
-        "type": "ainest_contract::ainest_registry::AInestRegistry::Dataset"
+        "type": "main::DataForgeRegistry::Dataset"
       }
     ],
     "state_mutability": "view"
@@ -226,7 +226,7 @@
   },
   {
     "type": "event",
-    "name": "ainest_contract::ainest_registry::AInestRegistry::DatasetRegistered",
+    "name": "main::DataForgeRegistry::DatasetRegistered",
     "kind": "struct",
     "members": [
       {
@@ -298,7 +298,7 @@
   },
   {
     "type": "event",
-    "name": "ainest_contract::ainest_registry::AInestRegistry::DatasetTransferred",
+    "name": "main::DataForgeRegistry::DatasetTransferred",
     "kind": "struct",
     "members": [
       {
@@ -320,7 +320,7 @@
   },
   {
     "type": "event",
-    "name": "ainest_contract::ainest_registry::AInestRegistry::DatasetRelisted",
+    "name": "main::DataForgeRegistry::DatasetRelisted",
     "kind": "struct",
     "members": [
       {
@@ -342,22 +342,22 @@
   },
   {
     "type": "event",
-    "name": "ainest_contract::ainest_registry::AInestRegistry::Event",
+    "name": "main::DataForgeRegistry::Event",
     "kind": "enum",
     "variants": [
       {
         "name": "DatasetRegistered",
-        "type": "ainest_contract::ainest_registry::AInestRegistry::DatasetRegistered",
+        "type": "main::DataForgeRegistry::DatasetRegistered",
         "kind": "nested"
       },
       {
         "name": "DatasetTransferred",
-        "type": "ainest_contract::ainest_registry::AInestRegistry::DatasetTransferred",
+        "type": "main::DataForgeRegistry::DatasetTransferred",
         "kind": "nested"
       },
       {
         "name": "DatasetRelisted",
-        "type": "ainest_contract::ainest_registry::AInestRegistry::DatasetRelisted",
+        "type": "main::DataForgeRegistry::DatasetRelisted",
         "kind": "nested"
       }
     ]
